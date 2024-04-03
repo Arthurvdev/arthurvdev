@@ -1,17 +1,17 @@
 ### Olá! Eu me chamo Arthur! 😉
+<h1 align="center">Olá! Eu me chamo Arthur! 😉</h1>
 
 ![Arthurvdev GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurvdev&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurvdev&layout=compact&theme=dracula) 
 
-## Tecnologias:
-
-<div style="display: inline_block;">
-    <img id="python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> 
-    <img id="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-    <img id="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-    <img id="JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-    <img id="NODEJS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
-    <img id="C++" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" /> 
+<h2 align="center">Linguagens | Frameworks | Ferramentas</h2>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=js,html,css,cpp,python" />
+    <img src="https://skillicons.dev/icons?i=nodejs,electron,github,godot,discordjs,discord,vscode,vercel" /><br>
 </div>
+
+
+
+
 
 ##
 
