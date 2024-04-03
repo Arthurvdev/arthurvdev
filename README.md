@@ -20,17 +20,14 @@
   <a href="https://www.linkedin.com/in/arthur-vin%C3%ADcius-monteiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
-<br>
-
- 
-
+<hr/>
 <h2 align="center">⚙️ Linguagens | Frameworks | Ferramentas ⚙️</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=js,html,css,cpp,python" />
     <img src="https://skillicons.dev/icons?i=nodejs,electron,github,godot,discordjs,discord,vscode,vercel" /><br>
 </div>
-
+<br>
+<hr/>
 
 <div align="center">
   <h2>🐍 Minhas Contribuições 🐍</h2>
@@ -39,7 +36,7 @@
   
   <br/><br/>
 </div>
-
+<hr/>
 
 <h2 align="center">🔋 Stats 🔋</h2>
 
