@@ -22,11 +22,13 @@
 </div>
 <hr/>
 <h2 align="center">⚙️ Linguagens | Frameworks | Ferramentas ⚙️</h2>
+<br>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=js,html,css,cpp,python" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,cpp,python" /> <br>
     <img src="https://skillicons.dev/icons?i=nodejs,electron,github,godot,discordjs,discord,vscode,vercel" /><br>
 </div>
-<br>
+
+<br/>
 <hr/>
 
 <div align="center">
@@ -40,7 +42,14 @@
 
 <h2 align="center">🔋 Stats 🔋</h2>
 
-![Arthurvdev GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurvdev&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurvdev&layout=compact&theme=dracula) 
+<div align="center">
+  
+![Arthurvdev GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurvdev&show_icons=true&theme=dracula) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurvdev&layout=compact&theme=dracula) 
+  
+</div>
+
 
 
           
