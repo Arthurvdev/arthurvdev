@@ -14,7 +14,7 @@
 <br>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=js,html,css,cpp,python" /> <br>
-    <img src="https://skillicons.dev/icons?i=nodejs,electron,github,godot,discordjs,discord,vscode,vercel,ps" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,electron,github,godot,discordjs,discord,vscode,vercel,ps,flask" /><br>
 </div>
 
 <br/>
