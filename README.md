@@ -13,8 +13,8 @@
 <h2 align="center">⚙️ Linguagens | Frameworks | Ferramentas ⚙️</h2>
 <br>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=js,html,css,cpp,python" /> <br>
-    <img src="https://skillicons.dev/icons?i=nodejs,electron,github,godot,discordjs,discord,vscode,vercel,ps,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=js,html,css,cpp,python,flask,django,sql" /> <br>
+    <img src="https://skillicons.dev/icons?i=nodejs,electron,github,godot,discordjs,discord,vscode,vercel,ps" /><br>
 </div>
 
 <br/>
