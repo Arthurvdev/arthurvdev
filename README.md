@@ -10,11 +10,12 @@
   
 </div>
 <hr/>
-<h2 align="center">⚙️ Linguagens | Frameworks | Ferramentas ⚙️</h2>
 <br>
 <div align="center">
+<h2 align="center">⚙️ Linguagens | Frameworks | Ferramentas | OS ⚙️</h2>
     <img src="https://skillicons.dev/icons?i=js,html,css,cpp,python,flask,django,mysql" /> <br>
     <img src="https://skillicons.dev/icons?i=nodejs,electron,github,godot,discordjs,discord,vscode,vercel,ps" /><br>
+    <img src="https://skillicons.dev/icons?i=windows,linux,kali" /><br>
 </div>
 
 <br/>
