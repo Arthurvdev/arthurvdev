@@ -32,7 +32,7 @@
 <div align="center">
   <h2>Conheça meu jogo!</h2>
   <a><img src="https://github.com/user-attachments/assets/665eca98-b15a-4199-9e0c-694becf7837c" /></a>
-  <a style="color: white;text-decoration: none;" href="https://gamejolt.com/games/Another_messenger/848931">Clique aqui</a>
+  <a style="color: rgb(255, 255, 255);text-decoration: none;" target="_blank">Acesse aqui!</a>
 </div>
 
 <hr/>
