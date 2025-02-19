@@ -15,8 +15,8 @@
 <div align="center">
 <h2 align="center">⚙️ Linguagens | Frameworks | Ferramentas | OS ⚙️</h2>
     <img src="https://skillicons.dev/icons?i=js,html,css,cpp,python,flask,django,mysql" /> <br>
-    <img src="https://skillicons.dev/icons?i=nodejs,electron,tauri,github,godot,discordjs,discord,vscode,vercel,ps" /><br>
-    <img src="https://skillicons.dev/icons?i=linkedin,bots,replit,windows,linux,kali" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,electron,tauri,github,godot,discordjs,discord,vscode,vercel" /><br>
+    <img src="https://skillicons.dev/icons?i=ps,linkedin,bots,replit,windows,linux,kali" /><br>
 </div>
 
 <br/>
