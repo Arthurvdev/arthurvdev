@@ -26,12 +26,14 @@
 <hr/>
 
 <div align="center">
+  
   <h2>🐍 Minhas Contribuições 🐍</h2>
   <br>
   
-
-
+  ![github-user-contribution](https://github.com/user-attachments/assets/df62f6ea-01df-4dd3-9913-29d2f632d3e5)
+  
   <br/><br/>
+  
 </div>
 <hr/>
 
