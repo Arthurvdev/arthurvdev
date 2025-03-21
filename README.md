@@ -25,7 +25,7 @@
 <div align="center">
   <h2>🐍 Minhas Contribuições 🐍</h2>
   <br>
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif">
+ 
   
   <br/><br/>
 </div>
